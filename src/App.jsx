@@ -1,7 +1,11 @@
 import * as React from "react";
+import * as Redux from "react-redux";
 import { Component } from 'react';
 import './App.css';
 //import * as logo from './logo.svg';
+
+// Just to make sure redux is used
+console.log(Redux);
 
 class App extends Component {
     render() {

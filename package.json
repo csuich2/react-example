@@ -11,12 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.1"
   },
   "devDependencies": {
-    "fuse-box": "^4.0.0-alpha.10",
+    "fuse-box": "^4.0.0-alpha.37",
     "ts-node": "^8.1.0",
-    "typescript": "^2.1.4",
-    "uglify-js": "^3.0.15"
+    "typescript": "^2.9.2",
+    "uglify-js": "^3.6.0"
   }
 }
